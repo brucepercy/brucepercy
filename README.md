@@ -1,4 +1,5 @@
-👋 Hello, I'm [Your Name]!
+
+👋 Hello, I'm Bruce Percy!!
 Welcome to my GitHub playground! 🚀 This is where I unleash the magic of code and creativity. Let me give you a sneak peek into what you can expect from my corner of the coding universe.
 
 👀 What Interests Me
