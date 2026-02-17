@@ -1,5 +1,3 @@
-Here's a polished version for your GitHub profile:
-
 👋 Hello, I'm Bruce Percy!
 Welcome to my GitHub! 🚀 This is where I explore the world of data science and machine learning through code and creativity.
 
